@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wiola
-- 👀 My background is in animal science and genomics. I’m interested in programming and data science.
+- 👀 My background is in statistics, animal science and genomics. I’m interested in programming and data science.
 - 🌱 I’m currently learning Django and RESTframework
 - 💞️ I’m looking to collaborate on web app development and data science projects
 - 📫 You can reach me at this email address: wioleta.drobik@gmail.com
